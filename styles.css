@@ -5,6 +5,7 @@ html, body {
     background-image: url("https://i.imgur.com/r0bQjDO.png") ;
     background-repeat: no-repeat;
     align-items: center;
+    margin: 0px;
 }
 .player .control-panel .controls {
 margin: 40px 160px;
